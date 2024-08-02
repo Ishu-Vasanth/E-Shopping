@@ -1,1 +1,1 @@
-# E-Shopping
+# coding-project-template
